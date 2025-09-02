@@ -11,11 +11,11 @@ This program utilizes the python-telegram-bot Telegram API to access the user's 
 
 The program supports the following commands:
 
-/start: Displays a welcome message and the list of available commands.
-/add <task>: Adds a new task to the task list.
-/delete <task number>: Deletes a specific task by its number in the list.
-/list: List all tasks currently saved in the user's task list.
-/clear: Remove all tasks from user's list.
-/help: Display the list of available commands.
+/start: Displays a welcome message and the list of available commands. 
+/add <task>: Adds a new task to the task list. 
+/delete <task number>: Deletes a specific task by its number in the list. 
+/list: List all tasks currently saved in the user's task list. 
+/clear: Remove all tasks from user's list. 
+/help: Display the list of available commands. 
 /stop: Stop the bot from responding to new commands.
 
